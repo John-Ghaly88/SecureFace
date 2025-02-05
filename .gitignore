@@ -1,0 +1,8 @@
+docs/backupPlan.md
+.env
+face_recognition/dataset/
+face_recognition/testing/
+face_recognition/.python-version
+pkg/keys
+*.code-workspace
+__pycache__/
